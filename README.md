@@ -79,7 +79,7 @@ If your contributions on Github is more on private repositories, you can show yo
 - **Avoid using just one accent color**. It makes the content dull and unengaging for a real human reader.
 
 ### Optimize for ATS
-Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
+Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) or [ResumeAI](https://withresumeai.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
 
 ## Customized Cover Letter
 A cover letter is your opportunity to expand on your resume and make a real connection with the recruiter, showing why you're the perfect fit for this specific role.
